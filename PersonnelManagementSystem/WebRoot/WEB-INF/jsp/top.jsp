@@ -39,7 +39,7 @@
 	<td class="topbg">
 	  <table width="100%" border="0" cellpadding="0" cellspacing="0">
 	    <tr>
-		  <td height="50" class="toplink" align="right"><img src="${ctx}/images/top_home.gif">&nbsp;&nbsp;<a href="javascript:void(0);">网站首页</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="${ctx}/images/top_exit.gif">&nbsp;&nbsp;<a href="javascript:void(0);" id="exit">注销退出</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+		  <td height="50" class="toplink" align="right"><img src="${ctx}/images/top_home.gif">&nbsp;&nbsp;<a href="loginForm.action"  target="_top">网站首页</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="${ctx}/images/top_exit.gif">&nbsp;&nbsp;<a href="JavaScript:void(0);" id="exit"> 注销退出</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
 		</tr>
 		<tr>
 		  <td height="30" class="topnavbg">

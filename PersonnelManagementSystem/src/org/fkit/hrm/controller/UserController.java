@@ -20,7 +20,6 @@ import org.springframework.web.servlet.ModelAndView;
  * */
 @Controller
 public class UserController {
-	
 	/**
 	 * 自动注入UserService
 	 * */

@@ -48,7 +48,6 @@
 			   $("#login-submit-btn").trigger("click");
 		   }
 	   })
-
 	   /** 给登录按钮绑定点击事件  */
 	   $("#login-submit-btn").on("click",function(){
 		   /** 校验登录参数 ctrl+K */
@@ -73,8 +72,6 @@
 	   
    })
  
-
-
 </script>
 </head>
 <!-- END HEAD -->
