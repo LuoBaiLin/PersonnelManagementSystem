@@ -79,7 +79,7 @@
 <body style="font-family: 微软雅黑">
 	<div class="page-lock">
 		<div class="page-logo" style="margin-bottom: 2px">
-			<a class="brand" href="login.html"
+			<a class="brand" href="JavaScript:void(0);"
 				style="font-size: 22px; color: #FFF;"> 人事管理<font color="#FFCC00">Hrm</font><span
 				style="font-size: 13px;">1.0</span> 系统
 			</a>
