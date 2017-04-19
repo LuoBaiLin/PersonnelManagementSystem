@@ -5,6 +5,10 @@ import org.springframework.web.multipart.MultipartFile;
 
 public class Document implements java.io.Serializable{
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private int id;					// 编号
 	private String title;			// 标题
 	private String fileName;		// 文件名

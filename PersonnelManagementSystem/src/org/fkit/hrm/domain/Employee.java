@@ -4,6 +4,10 @@ import org.springframework.format.annotation.DateTimeFormat;
 
 public class Employee implements java.io.Serializable{
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private Integer id;			// id
 	private Dept dept;			// 部门
 	private Job job;			// 职位

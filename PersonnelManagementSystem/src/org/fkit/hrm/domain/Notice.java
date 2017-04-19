@@ -3,6 +3,10 @@ package org.fkit.hrm.domain;
 
 public class Notice implements java.io.Serializable{
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private Integer id;		// 编号
 	private String title;   // 标题
 	private String content; // 内容

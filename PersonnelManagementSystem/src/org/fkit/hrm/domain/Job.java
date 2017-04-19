@@ -3,6 +3,10 @@ package org.fkit.hrm.domain;
 
 public class Job implements java.io.Serializable{
 
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private Integer id;			// id
 	private String name;		// 职位名称
 	private String remark;		// 详细描述
